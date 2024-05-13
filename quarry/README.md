@@ -8,7 +8,7 @@ Make sure your turtle is oriented relative to the hole you wish to dig as seen i
 ![reference image 1](q1.png)
 
 ### Reference 2
-Here is the turtle after `Quarry 6 9 3` was run.
+Here is the turtle after `Quarry 6 9 3` was run. Note that the emerald is where the turtle started.
 
 ![reference image 2](q2new.png)
 

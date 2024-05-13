@@ -10,17 +10,17 @@ Creates unlimited amounts of charcoal by farming spruce trees.
 ### Reference 1
 The design uses multiple water collection systems for the saplings to be collected. This allows the lumberjack turtles to keep replanting.
 
-![First setup reference image](cf1.png)
+![reference image 1](cf1.png)
 
 ### Reference 2
 Each water system has its corresponding tree and lumberjack turtle. Beneath the pillar of white and black concrete, there is a hopper to collect the saplings. The turtles here should use the pastebin code `vvHgqULh`.
 
-![First setup reference image](cf2.png)
+![reference image 2](cf2.png)
 
 ### Reference 3
 The smelting area is also simple with just eight furnaces and a drop chute for the charcoal. The fire is for surplus saplings and unnecessary sticks. The turtle here should use the pastebin code `hRiARA8v`.
 
-![First setup reference image](cf3.png)
+![reference image 3](cf3.png)
 
 
 

@@ -3,11 +3,12 @@
 Creates a rectangular wall, taking resources from a chest beside it.
 
 ## Setup
-
+### Reference 1
 Note the location of the chest relative to the turtle. The block storage system may be expanded to fit your needs!
 
 ![reference image 1](w1.png)
 
+### Reference 2
 This is the result of running `Wall 9 5` on the turtle.
 
 ![reference image 2](w2.png)

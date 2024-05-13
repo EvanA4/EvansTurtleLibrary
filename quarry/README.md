@@ -18,4 +18,5 @@ The command `Quarry 6 9 3` means
 - the 5 blocks in front of it will be a part of the hole,
 - the 8 blocks to its right will be part of the hole,
 - and two blocks beneath it will be part of the hole.
+
 The pastebin code is `vP9jMmuR`.

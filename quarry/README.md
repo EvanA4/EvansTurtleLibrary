@@ -13,4 +13,8 @@ Here is the turtle after `Quarry 6 9 3` was run.
 ![reference image 2](q2.png)
 
 ## Quarry.lua
-
+Takes three arguments `length`, `width`, and `depth` in that order.
+The command `Quarry 6 9 3` means
+- the 5 blocks in front of it will be a part of the hole,
+- the 8 blocks to its right will be part of the hole,
+- and two blocks beneath it will be part of the hole.

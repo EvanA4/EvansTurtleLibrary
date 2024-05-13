@@ -1,5 +1,5 @@
 # Quarry
-Digs a rectangular hole.
+Digs a rectangular hole--accounts for gravel, sand, and other gravity blocks!
 
 ## Setup
 ### Reference 1

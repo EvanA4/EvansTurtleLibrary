@@ -27,8 +27,10 @@ The smelting area is also simple with just eight furnaces and a drop chute for t
 ## Lumber.lua
 
 If there is a chest to put saplings in and a chest to pick up charcoal from, this program has the turtle mine trees indefinitely. It will restock saplings.
+The pastebin code is `vvHgqULh`.
 
 
 ## Smelter.lua
 
-This program will allow a turtle to collect the logs from the lumberjack turtles and convert the spruce wood into charcoal. It will burn surplus saplings and unnecessary sticks, and it will drop charcoal into the drop chute.
+This program will allow a turtle to collect the logs from the lumberjack turtles and convert the spruce wood into charcoal.
+It will burn surplus saplings and unnecessary sticks, and it will drop charcoal into the drop chute. The pastebin code is `hRiARA8v`.

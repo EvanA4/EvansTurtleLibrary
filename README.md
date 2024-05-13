@@ -5,5 +5,5 @@ Evan's Turtle Tools is a collection of programs to help with various mining, fue
 | ------------- |--------------------------------------|
 | charcoal      | A charcoal factory                   |
 | quarry        | Digs rectangular holes               |
-| floor         | Builds a floor                       |
+| floor         | Builds a floor or ceiling            |
 | wall          | Builds a wall                        |

@@ -10,7 +10,7 @@ Make sure your turtle is oriented relative to the hole you wish to dig as seen i
 ### Reference 2
 Here is the turtle after `Quarry 6 9 3` was run.
 
-![reference image 2](q2.png)
+![reference image 2](q2new.png)
 
 ## Quarry.lua
 Takes three arguments `length`, `width`, and `depth` in that order.
